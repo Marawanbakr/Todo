@@ -9,7 +9,6 @@ const TodoItem =(props)=> {
            <span>{item.location}</span>
            <span>{item.Socialstatus}</span>
            <span>{item.University}</span>
-           <span>&times;</span>
          </div>
         )
   })
